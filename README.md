@@ -163,6 +163,4 @@ This project is open source and available under the [MIT License](LICENSE).
 - Built as a learning project to understand graph algorithms
 - Thanks to the React community for amazing tools and resources
 
----
 
-⭐ **Star this repo if you found it helpful!** ⭐
